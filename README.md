@@ -1,6 +1,6 @@
 # EmprendeColombia
 
-![EmprendeColombia Banner](src/assets/baner.png)
+![Image](https://github.com/user-attachments/assets/04b821ee-4323-4f98-8eed-96684b639713)
 
 Plataforma de e-commerce para conectar emprendedores colombianos con clientes de todo el país. Descubre productos únicos, apoya negocios locales y transforma comunidades a través del comercio justo y sostenible.
 
